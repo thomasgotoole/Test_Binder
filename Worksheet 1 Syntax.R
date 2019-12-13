@@ -1,6 +1,4 @@
-install.packages("tidyverse")
-install.packages("gganimate")
-install.packages("NHANES")NHANES_tidied %>% 
+NHANES_tidied %>% 
   
 library(tidyverse)
 library(NHANES)
