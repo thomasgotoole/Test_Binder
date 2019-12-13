@@ -1,5 +1,3 @@
-NHANES_tidied %>% 
-  
 library(tidyverse)
 library(NHANES)
 
