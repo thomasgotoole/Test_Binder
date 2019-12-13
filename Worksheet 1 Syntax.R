@@ -1,5 +1,6 @@
 library(tidyverse)
 library(NHANES)
+library(ganimate)
 
 colnames(NHANES)
 
